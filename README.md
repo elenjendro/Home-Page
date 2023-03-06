@@ -22,7 +22,7 @@ Or the abilitty to embed one of the webpages icon that you drag to the circular 
 If you are interested in triying it localy from your computer you could clone the project with the following command:
 
 ```bash
-$ git clone https://github.com/elenjendro/Home-Page.git
+$ git clone https://github.com/elenjendro/elenjendroStartPage.git
 ```
 
 Ones you have the project directory in your system just open the index.html with your browser.
