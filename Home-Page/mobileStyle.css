@@ -168,15 +168,6 @@ input:focus{
 #bookmarks img {
 	width: 6vw;
 }
-
-#bookmarks #bookmarksUpsa {
-	width: 6vw;
-	height: 7.0vw;
-}
-#bookmarks #bookmarksHomebrew {
-	width: 6vw;
-	height: 8vw;
-}
 #launcher:hover
 {
 	transform: scale(1) !important;
